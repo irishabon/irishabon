@@ -1,4 +1,4 @@
-![QA Banner](https://images.unsplash.com/photo-1584907797015-7554cd315667?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![QA Banner](https://images.unsplash.com/photo-1655728664483-1e3b0778e1a5?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 # Hi there 👋 I'm Iryna
 
 🎯 **Aspiring QA Engineer | Postgraduate in Software Quality Engineering | AGH University of Krakow**
